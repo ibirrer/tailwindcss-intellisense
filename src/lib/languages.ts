@@ -26,6 +26,7 @@ export const DEFAULT_LANGUAGES = [
   'razor',
   'slim',
   'twig',
+  'elm',
   // css
   'css',
   'less',

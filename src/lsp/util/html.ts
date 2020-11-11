@@ -28,6 +28,7 @@ export const HTML_LANGUAGES = [
   'razor',
   'slim',
   'twig',
+  'elm',
 ]
 
 export function isHtmlDoc(state: State, doc: TextDocument): boolean {
